@@ -1,8 +1,6 @@
 ![Project Demo](https://raw.githubusercontent.com/brdyamhrany-debug/REDEYE/003d88744da367d041e16e9295ac5a7972e09597/InShot_20260806_173132364.jpg )
-
-
-
-
+# red eye v1.0
+A script that installs black hat hacking tools for Termux / Kali Linux
 # install red eye
 
 clone tool
