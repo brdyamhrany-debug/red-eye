@@ -9,7 +9,7 @@ git clone https://github.com/brdyamhrany-debug/red-eye.git
 
 Entering the tools folder
 
-cd red-eye
+cd REDEYE 
 
 Giving access to tools
 
